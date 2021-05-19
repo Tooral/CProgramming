@@ -1,4 +1,4 @@
-// Tural Hagverdiyev U10263909
+// Tural Hagverdiyev 
 // This programs checks the output or random chars to see if the output is
 // strong or not
 // there have been used many methods, such as calling functions, if statements

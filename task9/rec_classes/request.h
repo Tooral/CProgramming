@@ -1,4 +1,4 @@
-//Tural Hagverdiyev U10263909
+//Tural Hagverdiyev 
 //ifndef and endif protects the file and definition and this file is the header file of request.c
 #ifndef REQUEST_H
 #define REQUEST_H

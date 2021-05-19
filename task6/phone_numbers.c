@@ -1,4 +1,4 @@
-//Tural Hagverdiyev U10263909
+//Tural Hagverdiyev 
 //this code reads a file and asks user to input the name of file
 //then gets the desired output from the file and writes it into new file
 #include <stdio.h>

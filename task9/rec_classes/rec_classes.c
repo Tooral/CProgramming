@@ -1,4 +1,4 @@
-//Tural Hagverdiyev U10263909 
+//Tural Hagverdiyev 
 //This program using more advanced techqniues to develop a normal program to store names and other thing(linked lists)
 //this program is using the header files and other things for making it easire to run the code and get the desired outputs
 #include "request.h"

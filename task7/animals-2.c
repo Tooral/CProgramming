@@ -1,4 +1,4 @@
-//Tural Hagverdiyev U10263909 This program has struct and other functions to read a file and sort the desired output
+//Tural Hagverdiyev  This program has struct and other functions to read a file and sort the desired output
 #include <stdio.h>
 #define READ_NAME 100 
 #define MAX_ITEMS 200

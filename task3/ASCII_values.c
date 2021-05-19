@@ -1,4 +1,4 @@
-// Tural Hagverdiyev U10263909
+// Tural Hagverdiyev 
 // This program gets random numbers to get the length on array after that
 // program gets random numbers to find the correct AScii table matches of the
 // chars that it got, there have been used many things

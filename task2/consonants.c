@@ -1,4 +1,4 @@
-//Tural Hagverdiyev U10263909
+//Tural Hagverdiyev 
 // in this program user is asked forr in put and the inputed entered is getting consonants only 
 // with help of some special functions
 // if statement, gecthar and while loop has been used forr this code

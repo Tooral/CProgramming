@@ -1,4 +1,4 @@
-//Tural Hagverdiyev U10263909
+//Tural Hagverdiyev 
 // this code searchs for same consecutive elemenst and prints out them
 #include <stdio.h>
 

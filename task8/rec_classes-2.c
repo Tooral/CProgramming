@@ -1,4 +1,4 @@
-//Tural Hagverdiyev U10263909 
+//Tural Hagverdiyev 
 //This program using more advanced techqniues to develop a normal program to store names and other thing(linked lists)
 //Here I modified the given program and added append, delete and clearlist to make program work perfectly as required
 #include <stdio.h>

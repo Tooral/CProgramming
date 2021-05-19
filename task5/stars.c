@@ -1,4 +1,4 @@
-//Tural Hagverdiyev U10263909
+//Tural Hagverdiyev 
 // this program asks user to input some charachters with * and gets the output of the first two 
 #include <stdio.h>
 #define STR_LEN 1000// setting the length to 1000

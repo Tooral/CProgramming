@@ -1,4 +1,4 @@
-//Tural Hagverdiyev U10263909
+//Tural Hagverdiyev 
 // In this Program, It basically calculates the total amount of rent fee
 // but it gives attenton to some points
 // it exits the program when written less than 1 for months and etc.

@@ -1,4 +1,4 @@
-// Tural Hagverdiyev U10263909
+// Tural Hagverdiyev 
 // this code asks user to enter length and elements of an array 
 // the this code gets the 2 arrays, 1st one before zero
 // 2nd one after zero and prints out them

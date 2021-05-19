@@ -1,4 +1,4 @@
-// Tural Hagverdiyev U10263909
+// Tural Hagverdiyev 
 // this program evaluates calculation based on random numbers
 // after that it prints out the correct output
 // in special cases such as 5, 11 it asks forr user to enter output abnd then

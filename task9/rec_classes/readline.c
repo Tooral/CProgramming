@@ -1,4 +1,4 @@
-//Tural Hagverdiyev U10263909 
+//Tural Hagverdiyev 
 //This file reads the input of the user
 #include <stdio.h>
 #include <stdlib.h>

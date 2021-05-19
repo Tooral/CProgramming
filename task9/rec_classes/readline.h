@@ -1,4 +1,4 @@
-//Tural Hagverdiyev U10263909
+//Tural Hagverdiyev 
 //this is the header file for readline function
 #ifndef READ_LINE_H//protecting the code/definition
 #include <stdio.h>

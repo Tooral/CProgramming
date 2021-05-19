@@ -1,4 +1,4 @@
-//Tural Hagverdiyev U10263909 
+//Tural Hagverdiyev 
 /* This program is the extension of the request.c file which is calling the proper files for load save append delete and other functions
 */
 #include "request.h"
